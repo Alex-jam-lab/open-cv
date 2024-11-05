@@ -1,0 +1,20 @@
+Q
+Clicked coordinates: (64, 325)
+Clicked coordinates: (337, 277)
+Clicked coordinates: (89, 633)
+Clicked coordinates: (403, 570)
+k
+Clicked coordinates: (527, 143)
+Clicked coordinates: (772, 189)
+Clicked coordinates: (404, 396)
+Clicked coordinates: (677, 459)
+j
+Clicked coordinates: (775, 106)
+Clicked coordinates: (1017, 82)
+Clicked coordinates: (845, 358)
+Clicked coordinates: (1115, 330)
+9
+Clicked coordinates: (739, 387)
+Clicked coordinates: (1022, 437)
+Clicked coordinates: (646, 695)
+Clicked coordinates: (986, 695)
